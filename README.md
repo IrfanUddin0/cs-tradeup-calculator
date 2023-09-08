@@ -1,5 +1,5 @@
 # cs-tradeup-calculator
-Trade up calculator for counter-strike, script that exports a csv which shows how profitable 
+Trade up calculator for counter-strike, script that exports a csv of a list of many possible combinations of tradeups and shows how profitable each is
 
 ## Notes
 - Currently not fully accurate as prices for some skins are lower than they should be
